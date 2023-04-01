@@ -11,8 +11,9 @@
   GitHub Link: https://github.com/meghanach1/Assignment3
 
   VideoLink:
-  https://drive.google.com/file/d/1vD0Z9TxG4dfZpRCRZcP34d9CV7x_rFYQ/view?us p=share_link
-
+  https://drive.google.com/file/d/1zM28Ex6ydlhaxkqF-BHBR3L8uDQZ6XiF/view?usp=share_link
+  
+  
    1. Numpy:
     
    a. Using NumPy create random vector of size 15 having only Integers in the range 1-20.
